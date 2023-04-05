@@ -1,0 +1,14 @@
+.header-link-list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.header-link {
+  margin-right: 30px;
+}
+
+.li {
+  font-size: 20px;
+  text-decoration: underline;
+}

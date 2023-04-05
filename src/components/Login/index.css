@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.login-button {
+  outline: none;
+}
